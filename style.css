@@ -1,0 +1,29 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap'); */
+
+.heading{
+    background-color: rgb(236, 250, 255);  
+    height: ;
+}
+.heading h1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(109, 209, 226);
+    height: 100px;
+    
+}
+.cloudRight {
+   margin-left: 70%; 
+   padding-top: 2%;  
+}
+.cloudLeft{
+    margin-left: 30%;
+
+}
+.Mountain{
+    text-align: center;
+}
+.heading p{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(109, 209, 226);
+}
